@@ -12,10 +12,10 @@ Unity Vector Graphics Simple Test https://docs.unity3d.com/Packages/com.unity.ve
 - Unity 2020.1.7f1 or later
 
 # References
-[VectorGraphicsで作るエモい表現（完全版） - Unity道場](https://learning.unity3d.jp/2642/)   
-[VectorGraphicsMoGraphSamples](https://github.com/gok11/VectorGraphicsMoGraphSamples)   
-[[SOLVED] Vector Graphics Package Missing](https://forum.unity.com/threads/solved-vector-graphics-package-missing.682864/)
+- [VectorGraphicsで作るエモい表現（完全版） - Unity道場](https://learning.unity3d.jp/2642/)   
+- [VectorGraphicsMoGraphSamples](https://github.com/gok11/VectorGraphicsMoGraphSamples)   
+- [[SOLVED] Vector Graphics Package Missing](https://forum.unity.com/threads/solved-vector-graphics-package-missing.682864/)
 
 
 # License
-[Unlicense](https://unlicense.org/)
+- [Unlicense](https://unlicense.org/)
